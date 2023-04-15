@@ -19,7 +19,6 @@
 -  Programming languages and frameworks like HTML, CSS, JavaScript, and PHP will be used ot construct the system. 
 -  The system should record user information, reservations for rooms, and other pertinent information using a relational database management system like MySQL. 
 -  To safeguard user data and stop unwanted access, the system should put suitable security measures in place. Secure coding methods, secure sockets layer (SSL) encryption for data transfer, and password encryption. 
--  Users should be able to pay for their reservations using the system's integration with a payment gateway like PayPal or Benefit Pay. 
 -  To prevent data loss in the case of a system failure or data corruption, the system should incorporate a backup and recovery strategy
 
 
