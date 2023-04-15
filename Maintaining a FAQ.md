@@ -10,7 +10,7 @@
 * Thank you for your kind words! You can always donate to our paypal account: spacestudy. 
 
 4. I have many great ideas to Improve your website? Where should I write them? 
-* Just contact us via email studyspace@gmail.com or go to the our website where you can find a page at our website called “feedback page” dedicated to writing your feedback and wonderful ideas, we always love to hear from our users. 
+* Just contact us via email support@studyspace.com or go to the our website where you can find a page at our website called “feedback page” dedicated to writing your feedback and wonderful ideas, we always love to hear from our users. 
 
 5. What are the minimum requirements to open studyspace? 
 * You only need a device that can open any browser, but the minimum ram used to ran any browser is 4 ram, so to use our website its recommended to have at least 4 GB ram and everything will run smoothly.  
