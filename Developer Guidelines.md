@@ -65,4 +65,4 @@ If the title is inadequate, further state where, when, and how the bug occurred.
 * Priority and severity: The extent of the influence on your product and how promptly it should be looked into. 
 
 > Adding useless information will make it more challenging to pinpoint the issue, so keep that in mind. Don't copy anything twice.  When you have all of this data and still want assistance, put it all together into a report and send it to 
-> email it to support@studyspoter.com
+> email it to support@studyspace.com
