@@ -1,4 +1,4 @@
-# FQA maintaining
+# FAQ:
 
 1. Can I login as a guest or do I need to have an account to use studyspace?  
 * To use studyspace, you have to create an account in our website to experience all the amazing features that our website can offer and have the ability to befriend other students from all over the world and obtain knowledge from them. 
