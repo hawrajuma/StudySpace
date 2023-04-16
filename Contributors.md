@@ -24,12 +24,12 @@
     <tr>
     <td>Hawra Hussain Matter</td>
     <td>20194082</td>
-    <td>https://github.com/</td>
+    <td>https://github.com/hawramttr</td>
   </tr>
     
    <tr>
     <td>Noor Alawi</td>
     <td>20182311</td>
-    <td>https://github.com/</td>
+    <td>https://github.com/nrala19</td>
   </tr>
 </table>
