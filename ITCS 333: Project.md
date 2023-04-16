@@ -39,13 +39,14 @@ Say that the website runs on an Apache server, which means it can only be built
 ## Grading:
 Basically, the grade will be divided into the following areas:
 1. Implementation: The level of complexity and the number of the functions you
-implement using PHP, files, or database and/or JavaScript (65%).
+implement using PHP,database or JavaScript (65%).
 2. The aesthetic design, the usability of your Website using HTML or/and CSS
-(25%). All pages should have unified design.
+(25%). 
+> All pages should have unified design.
 3. Web Hosting: uploading your complete website online and make sure all
 functionalities are working - (10%).
-4. Final submission: (complete code/DB + One Page Instructions) – Any delay or
-missing details in the submission will effect the overall grades of the project.
+4. Final submission: (complete code/DB + One Page Instructions) 
+> Any delay or missing details in the submission will effect the overall grades of the project.
 5. The instruction should include the following:
 i. Team members details (Student ID, Name and Section)
 ii. Online URL
