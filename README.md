@@ -11,7 +11,7 @@
 * a robust and user-friendly open-source booking study room software  and management system
 > Note: This program was created as free open-source software under the provisions of the GNU License. All developers that wants to be part of the team are welcome to take part.
 
-## Project kimitation
+## Project limitation
 1. The system will be written using the following programming languages (HTML,CSS,PHP,MYSQL,JS).
 2. Users, site administrators, and developers will have access to the website.
 3. Two months from the commencement date, the project will be finished.
