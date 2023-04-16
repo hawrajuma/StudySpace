@@ -36,7 +36,7 @@ ii. Remove rooms <br>
 ## Main Programming Tools:
 Say that the website runs on an Apache server, which means it can only be built in PHP, HTML/CSS, or JavaScript and with a MYSQL database. If you want to access MySQL, YOU MUST USE PDO/PHP.
 
-## GRADING:
+## Grading:
 Basically, the grade will be divided into the following areas:
 1. Implementation: The level of complexity and the number of the functions you
 implement using PHP, files, or database and/or JavaScript (65%).
