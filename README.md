@@ -131,6 +131,8 @@ With the team members contributing to the project via the communication group th
 * Once you're satisfied with your changes, commit them to your neighborhood branch.
 
 ### Bug Report:
+* As the possibility of bugs are quite high, whenever you find a bug while testing or by simply reading the code please use the feature that GitHub offers which is “bug report” to report any existing bug, you can find this page under the repository name, then click “issues”,  click on “new issues”, choose the type of issue you would like to open and finally click on “get started”. The bug report page is very easy to understand as everything is structured in all the important details that you need to write are explained thoroughly on the page. Using this feature will enable us to track bugs and solve them to make our project more stable.
+
 ### Considereds:
 * Title: Be succinct and precise. Clearly describe the nature of the bug.
 If the title is inadequate, further state where, when, and how the bug occurred.
