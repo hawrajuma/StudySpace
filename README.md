@@ -147,7 +147,7 @@ If the title is inadequate, further state where, when, and how the bug occurred.
 > email it to support@studyspace.com
 
 ## FAQs
-Here are responses to ome frequently asked questions. Please contact us if you have any questions that aren't covered here.
+Here are responses to our most frequently asked questions. Please contact us if you have any questions that aren't covered here.
 > https://github.com/hawrajuma/StudySpace/blob/21c1625b56369e2b6eb9613522830218654af072/FAQ.md
 
 ## 📹 Demos, Screenshots, Videos, and Example Output
@@ -161,6 +161,10 @@ Please read and follow the guidelines to help make the StudySpace community welc
 The project will be hosted so that anybody can access it, thus we will publish our project on GitHub because it is an open source project and is available for free so that users and developers can access it and give us feedback.
 ### We choose GitHub to put the project on it:
 > https://github.com/hawrajuma/StudySpace/blob/21c1625b56369e2b6eb9613522830218654af072/Hosting.md
+
+## Announcement: 
+you can find all the details about all the announcement regarding to our project and all our accounts in different social media platforms. Thank you for being our supporter!
+> https://github.com/hawrajuma/StudySpace/blob/c5635b13fdac586b9705c2c079b68cc5504b06d8/Announcement.md
 
 ## User Classes and Characteristics
 Three user kinds are present in our system:
