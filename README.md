@@ -163,7 +163,7 @@ The project will be hosted so that anybody can access it, thus we will publish o
 > https://github.com/hawrajuma/StudySpace/blob/21c1625b56369e2b6eb9613522830218654af072/Hosting.md
 
 ## Announcement: 
-you can find all the details about all the announcement regarding to our project and all our accounts in different social media platforms. Thank you for being our supporter!
+You can find all the details about all the announcement regarding to our project and all our accounts in different social media platforms. Thank you for being our supporter!
 > https://github.com/hawrajuma/StudySpace/blob/c5635b13fdac586b9705c2c079b68cc5504b06d8/Announcement.md
 
 ## User Classes and Characteristics
