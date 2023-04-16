@@ -1,5 +1,4 @@
-# First, Look Around
-## List all project and their links
+# List all project and their links
 Before starting our open-source project, we searched for similar
 projects to our idea so we can get a glimpse of how our project will
 manifest on the internet. The websites that we have found are not
