@@ -7,3 +7,7 @@ identifying study resources in a private enviroment, like a planet drifting in i
 We also wanted a name that was memorable and easy to say, and that
 conveyed a sense of fun and excitement. We believe that StudySpace is the
 perfect name for our project, with its motto of 'Reserve your own place, with plenty of space' and will help us to attract users and contributors who share our passion for learning and education.
+
+
+<img src="img/logo.jpeg" align="center" width="180px" hight="280px"> 
+<img src="img/logo0.jpeg" align="center" width="180px" hight="280px"> 
