@@ -1,8 +1,9 @@
 # StudySpace
 
 * This is an OpenSource Web Application for 
-> <a href="https://github.com/hawrajuma/StudySpace.git">LINK</a>
-<img src="img/logo.jpeg alt="Logo of the project" align="right"> 
+> <a href="https://github.com/hawrajuma/StudySpace.git">StudySpace Link</a>
+<img src="img/logo.jpeg" alt="Logo of the project" align="right"> 
+
                                                                       
  The system that we will develop is an open source and free system, I mean that users can download it completely with the code.
 * The system is an online booking tool that aids students in finding a comfortable location to do their schoolwork.
