@@ -1,3 +1,6 @@
+<img src="img/logo.jpeg" alt="Logo of the project" align="right" width="80px" hight="80px"> 
+
+
 # Starting from previous project 
 
 The goal of this website is to offer the student a space where they can focus on
