@@ -1,3 +1,6 @@
+<img src="img/logo.jpeg" alt="Logo of the project" align="right" width="80px" hight="80px"> 
+
+
 # Developer Guidelines
 ## Coding Guidelines for Developers
 ### The software developers that build the system or contribute to it can benefit from the guidance provided in this on-going publication. The suggestions address:
