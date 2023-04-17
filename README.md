@@ -2,7 +2,7 @@
 
 * This is an OpenSource Web Application for 
 > <a href="https://github.com/hawrajuma/StudySpace.git">StudySpace Link</a>
-<img src="img/logo.jpeg" alt="Logo of the project" align="right"> 
+<img src="img/logo.jpeg" alt="Logo of the project" align="right" width="40px" hight="40px"> 
 
                                                                       
  The system that we will develop is an open source and free system, I mean that users can download it completely with the code.
