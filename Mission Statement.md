@@ -1,3 +1,5 @@
+<img src="img/logo.jpeg" alt="Logo of the project" align="right" width="80px" hight="80px"> 
+
 # The Mission Statement
 Programmers can utilize the open-source application StudySpotter to create a
 flowless booking management system for scheduling study spaces that will aid
