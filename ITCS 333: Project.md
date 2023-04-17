@@ -16,7 +16,7 @@ The primary features of the system, which may be booked online, may include but 
 * attractive looking by adding bootstrap components, styling and your
 own styling. <br>
 * DON’T USE READY MADE TEMPLATES <br>
-<img src="img/popular.jpeg" align="center" width="180px" hight="280px"> 
+<img src="img/popular.jpeg" align="center" width="1800px" hight="2800px"> 
 
 3. Registration and Login <br>
 • Users can register themselves to the system (must be validated using
