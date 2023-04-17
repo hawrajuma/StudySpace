@@ -153,7 +153,22 @@ If the title is inadequate, further state where, when, and how the bug occurred.
 Here are responses to our most frequently asked questions. Please contact us if you have any questions that aren't covered here.
 > https://github.com/hawrajuma/StudySpace/blob/21c1625b56369e2b6eb9613522830218654af072/FAQ.md
 
-## Demos
+## Demos, Screenshots, and Example Output
+we will be shearing some demos and screenshots of our project here.
+
+## Goal:
+<img src="img/1.jpg"  align="center" width="1500px" hight="2500px"> 
+<img src="img/18.jpg"  align="center" width="1500px" hight="2500px"> 
+
+## Project Information:
+<img src="img/19.jpg"  align="center" width="1500px" hight="2500px"> 
+
+## Main Page:
+<img src="img/21.jpg"  align="center" width="1500px" hight="2500px"> 
+
+## Study rooms:
+*     Room Information
+<img src="img/2.jpg"  align="center" width="1500px" hight="2500px"> 
 
 
 ## Code of Conduct
