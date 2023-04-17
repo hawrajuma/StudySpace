@@ -7,7 +7,7 @@
     <td>GitHub Account</td>
   </tr>
    <tr>
-     <td>Hawra Juma Aldolabi <b>(Leader)</b></td>
+     <td>Hawra Juma Aldolabi </td>
     <td>20198687</td>
     <td>https://www.github.com/hawrajuma</td>
   </tr>
