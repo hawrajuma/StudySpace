@@ -1,3 +1,6 @@
+<img src="img/logo.jpeg" alt="Logo of the project" align="right" width="80px" hight="80px"> 
+
+
 # Development Status
  ACTIVE DEVELOPMENT - StudySpace project status are active. 
 it is currently being activelydeveloped and maintained by a dedicated community of contributors. We are releasing frequent updates, bug fixes, and feature releases. Our community of
