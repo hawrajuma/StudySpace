@@ -167,6 +167,9 @@ we will be shearing some demos and screenshots of our project here.
 <img src="img/21.jpg"  align="center" width="1500px" hight="2500px"> 
 
 ## Study rooms:
+*     Rooms Catalog
+<img src="<img width="660" alt="Screen Shot 2023-04-17 at 10 42 21 PM" src="https://user-images.githubusercontent.com/130880371/232614300-fe55b49c-568b-4e77-8dec-f0593b285261.png">
+"  align="center" width="1500px" hight="2500px"> 
 *     Room Information
 <img src="img/2.jpg"  align="center" width="1500px" hight="2500px"> 
 
