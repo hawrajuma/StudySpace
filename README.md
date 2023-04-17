@@ -168,7 +168,7 @@ we will be shearing some demos and screenshots of our project here.
 
 ## Study rooms:
 *     Rooms Catalog
-<img src="<img width="1212" alt="Screen Shot 2023-04-17 at 10 52 19 PM" src="https://user-images.githubusercontent.com/130880371/232614586-257d11a1-309f-416b-a0d0-66c475c034ea.png" align="center" width="1500px" hight="2500px"> 
+<img width="1212" alt="Screen Shot 2023-04-17 at 10 52 19 PM" src="https://user-images.githubusercontent.com/130880371/232614586-257d11a1-309f-416b-a0d0-66c475c034ea.png" align="center" width="1500px" hight="2500px"> 
 *     Room Information
 <img src="img/2.jpg"  align="center" width="1500px" hight="2500px"> 
 
