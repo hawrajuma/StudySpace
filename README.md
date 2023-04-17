@@ -218,6 +218,9 @@ StudySpace is an academic website aimed to ease the process of booking by provid
   </tr>
 </table>
 
+# Contributions Welcome
+Please send a pull request if you discover a defect in the code or have recommendations for enhancements.
+
 
 
 
