@@ -1,5 +1,8 @@
+<img src="img/logo.jpeg" alt="Logo of the project" align="right" width="80px" hight="80px"> 
+
+
 # Features & Requirements
-## We would provide you with this list of the features and requirements if you were looking for a quick summary of the product.
+### We would provide you with this list of the features and requirements if you were looking for a quick summary of the product.
 <br> <br>
 
 ### Features:
