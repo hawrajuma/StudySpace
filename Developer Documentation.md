@@ -1,3 +1,6 @@
+<img src="img/logo.jpeg" alt="Logo of the project" align="right" width="80px" hight="80px"> 
+
+
 # Developer Documentation
 Welcome to the developer documentation for StudySpace ! This document will provide how to set up, use, and contribute to the study space project. If you have any questions or issues, please feel free to reach out to our community of contributors for assistance. It can never be created by someone without programming knowledge; the developer always writes it. Additionally, it is more social than technical; its purpose is to teach other programmers how to handle code. The developer documentation may be found in the design document, and everything will be sorted and organized using wikis.  
 
