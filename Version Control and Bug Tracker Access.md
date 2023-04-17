@@ -1,3 +1,6 @@
+<img src="img/logo.jpeg" alt="Logo of the project" align="right" width="80px" hight="80px"> 
+
+
 # Version Control and Bug Tracker Access
 We plan to use Git for version control and GitHub for bug tracking. We will
 access these systems through our GitHub repository, where we will keep track of
