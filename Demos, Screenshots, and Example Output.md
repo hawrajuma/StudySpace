@@ -5,8 +5,8 @@
 we will be shearing some demos and screenshots of our project here.
 
 ## Goal:
-<img src="img/1.jpg"  align="Center" width="850px" hight="900px"> 
-<img src="img/18.jpg"  align="Center" width="1500px" hight="2500px"> 
+<img src="img/1.jpg"  align="center" width="850px" hight="900px"> 
+<img src="img/18.jpg"  align="center" width="1500px" hight="2500px"> 
 
 ## Project Information:
 
