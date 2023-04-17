@@ -1,3 +1,6 @@
+<img src="img/logo.jpeg" alt="Logo of the project" align="right" width="80px" hight="80px"> 
+
+
 # FAQ:
 
 1. Can I login as a guest or do I need to have an account to use studyspace?  
