@@ -1,4 +1,6 @@
-# List all project and their links
+<img src="img/logo.jpeg" alt="Logo of the project" align="right" width="80px" hight="80px"> 
+
+# Related Projects
 Before starting our open-source project, we searched for similar
 projects to our idea so we can get a glimpse of how our project will
 manifest on the internet. The websites that we have found are not
