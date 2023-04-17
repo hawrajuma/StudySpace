@@ -1,5 +1,7 @@
+<img src="img/logo.jpeg" alt="Logo of the project" align="right" width="80px" hight="80px"> 
+
+
 # Contributors
-<img src="img/logo.jpeg" align="left" width="180px" hight="280px"> 
 
 <table>
   <tr>
