@@ -1,3 +1,6 @@
+<img src="img/logo.jpeg" alt="Logo of the project" align="right" width="80px" hight="80px"> 
+
+
 # Codes of Conduct:	 
  Our study space project is committed to providing a safe and welcoming environment for everyone. We expect all members of our community to follow the rules: 
 
