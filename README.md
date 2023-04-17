@@ -153,7 +153,7 @@ If the title is inadequate, further state where, when, and how the bug occurred.
 Here are responses to our most frequently asked questions. Please contact us if you have any questions that aren't covered here.
 > https://github.com/hawrajuma/StudySpace/blob/21c1625b56369e2b6eb9613522830218654af072/FAQ.md
 
-## 📹 Demos, Screenshots, Videos, and Example Output
+## Demos
 
 
 ## Code of Conduct
