@@ -1,3 +1,6 @@
+<img src="img/logo.jpeg" alt="Logo of the project" align="right" width="80px" hight="80px"> 
+
+
 # How to Download and Run the Project on Your Computer?
 
 ## Installation Instruction:
