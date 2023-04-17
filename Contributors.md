@@ -1,4 +1,5 @@
 # Contributors
+<img src="img/logo.jpeg" align="left" width="180px" hight="280px"> 
 
 <table>
   <tr>
