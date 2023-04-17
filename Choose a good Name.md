@@ -1,6 +1,8 @@
+<img src="img/logo.jpeg" alt="Logo of the project" align="right" width="80px" hight="80px"> 
+
+
 # The process for choosing a good name for project (StudySpace)
 
-<img src="img/logo.jpeg" align="left" width="180px" hight="280px"> 
 
 We chose the name StudySpace for our open source project because it
 reflects our goal of helping students find the best study resources and tools
