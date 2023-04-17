@@ -1,3 +1,6 @@
+<img src="img/logo.jpeg" alt="Logo of the project" align="right" width="80px" hight="80px"> 
+
+
 # User Classes and Personalities
 
 Three user kinds are present in our system:
