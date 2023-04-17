@@ -1,4 +1,5 @@
 # ITCS 333: Project
+<img src="img/logo.jpeg" align="left" width="180px" hight="280px"> 
 
 ## Basic Requirements:
 * You should form groups of 5 to 7 students each.
