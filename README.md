@@ -2,7 +2,7 @@
 
 # StudySpace
 
-* This is an OpenSource Web Application for 
+* This is an OpenSource Web Application that can be used for 
 > <a href="https://github.com/hawrajuma/StudySpace.git">StudySpace Link</a>
 
                                                                       
