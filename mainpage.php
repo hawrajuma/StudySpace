@@ -51,7 +51,7 @@
   transition: all 0.3s ease-in-out;
   margin: 0 0 0 20px;
   font-family: "Open Sans", sans-serif;
-  color: #000066;
+  color: #000067;
   }
 
   .btn1:hover {
