@@ -156,7 +156,7 @@
     <!-- ======= catalog section ======= -->
     <section id="catalog" class="catalog">
       <div class="container">
-
+<!==== new div section ===-->
         <div class="section-title">
           <h2>Preview Of Our Rooms</h2>
           <p>Rooms for all, tailored for your preference.</p>
