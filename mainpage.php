@@ -83,7 +83,7 @@
 <!-- ======= Header if user is not logged in======= -->
 
 
-
+<!==start of slogn section ==-->
   <!--bdayt el slogan-->
   <section id="astro" class="d-flex flex-column justify-content-center align-items-center">
     <div style="justify-content: center;" class="container text-center text-md-left" data-aos="fade-up">
